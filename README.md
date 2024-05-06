@@ -6,7 +6,7 @@
 
 ## Документация
 
-- [План тестирования](https://github.com/...)
+- [План тестирования](https://github.com/paulwhite9191/Diploma_QAMID-53/blob/main/Plan.md)
 - [Чек-лист](https://docs.google.com/spreadsheets/d/1ZrxnuwQsNJ7UPio2beaKdWFrFnJ_XSHHxjjaoTymZY8/edit#gid=0)
 - [Тест-кейсы](https://docs.google.com/spreadsheets/d/1yYTiF3Gp0JFFbQVzOsPJvgORNSt2-9okjB_O4618Mac/edit#gid=0)
 - [Отчет о тестировании]()
