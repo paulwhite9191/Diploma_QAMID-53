@@ -59,8 +59,8 @@ public class EditNewsTest {
 
         String title = "Заголовок";
         String description = "Описание";
-        String newTitle = "Заголовок изменен";
-        String newDescription = "Описание изменено";
+        String newTitle = "Заголовок отредактирован";
+        String newDescription = "Описание отедактировано";
 
         mainSteps.openNewsPage();
         controlPanelSteps.openControlPanelPage();
@@ -90,9 +90,8 @@ public class EditNewsTest {
         String publicationDate = getCurrentDate();
         String publicationTime = getCurrentTime();
 
-        String title = "Заголовок Test";
-        String description = "Описание Test" +
-                "";
+        String title = "Заголовок Тест";
+        String description = "Описание Тест";
 
         mainSteps.openNewsPage();
         controlPanelSteps.openControlPanelPage();
